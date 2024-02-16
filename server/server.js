@@ -1,7 +1,3 @@
-/**
- * @see https://www.nicesnippets.com/blog/how-to-convert-base64-to-pdf-in-nodejs
- * @see https://www.freecodecamp.org/news/save-a-base64-string-as-pdf-on-client-side-in-javascript/
- */
 
 const cors = require("cors");
 const nodemailer = require("nodemailer");

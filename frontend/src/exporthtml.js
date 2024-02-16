@@ -105,7 +105,7 @@ table[class=body] .article {
             <table role="presentation" border="0" cellpadding="0" cellspacing="0" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; min-width: 100%; width: 100%;" width="100%">
               <tr>
                 <td class="align-center" style="font-family: sans-serif; font-size: 14px; vertical-align: top; text-align: center;" valign="top" align="center">
-                  <a href="https://www.feedbacksync.com" style="color: #ec0867; text-decoration: underline;"><img src="https://www.feedbacksync.com/static/media/logo-brand.4dca18491486f6a6beb3c57f34ab1d02.svg" height="40" alt="Postdrop" style="border: none; -ms-interpolation-mode: bicubic; max-width: 100%;"></a>
+                  <a href="https://www.nzminds.com" style="color: #ec0867; text-decoration: underline;"><img src="https://www.nzminds.com/static/media/logo-brand.4dca18491486f6a6beb3c57f34ab1d02.svg" height="40" alt="Postdrop" style="border: none; -ms-interpolation-mode: bicubic; max-width: 100%;"></a>
                 </td>
               </tr>
             </table>
@@ -137,7 +137,7 @@ table[class=body] .article {
                                 <table role="presentation" border="0" cellpadding="0" cellspacing="0" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; min-width: auto; width: auto;">
                                   <tbody>
                                     <tr>
-                                      <td style="font-family: sans-serif; font-size: 14px; vertical-align: top; border-radius: 5px; text-align: center; background-color: #4F46E5;" valign="top" align="center" bgcolor="#4F46E5"> <a href="https://www.feedbacksync.com" target="_blank" style="border: solid 1px #ec0867; border-radius: 5px; box-sizing: border-box; cursor: pointer; display: inline-block; font-size: 14px; font-weight: bold; margin: 0; padding: 12px 25px; text-decoration: none; text-transform: capitalize; background-color: #4F46E5; border-color: #4F46E5; color: #ffffff;">Verification Link</a> </td>
+                                      <td style="font-family: sans-serif; font-size: 14px; vertical-align: top; border-radius: 5px; text-align: center; background-color: #4F46E5;" valign="top" align="center" bgcolor="#4F46E5"> <a href="https://www.nzminds.com" target="_blank" style="border: solid 1px #ec0867; border-radius: 5px; box-sizing: border-box; cursor: pointer; display: inline-block; font-size: 14px; font-weight: bold; margin: 0; padding: 12px 25px; text-decoration: none; text-transform: capitalize; background-color: #4F46E5; border-color: #4F46E5; color: #ffffff;">Verification Link</a> </td>
                                     </tr>
                                   </tbody>
                                 </table>
@@ -145,7 +145,7 @@ table[class=body] .article {
                             </tr>
                           </tbody>
                         </table>
-                        <p style="font-family: sans-serif; font-size: 14px; font-weight: normal; margin: 0; margin-bottom: 15px;">If you have any questions or concerns, please don't hesitate to contact our support team at support@feedbacksync.com</p>
+                        <p style="font-family: sans-serif; font-size: 14px; font-weight: normal; margin: 0; margin-bottom: 15px;">If you have any questions or concerns, please don't hesitate to contact our support team at support@nzminds.com</p>
                         <p style="font-family: sans-serif; font-size: 14px; font-weight: normal; margin: 0; margin-bottom: 15px;">Thank you for choosing Feedback Sync!</p>
                         <p style="font-family: sans-serif; font-size: 14px; font-weight: normal; margin: 0; margin-bottom: 15px;">Best regards,
                             <br>
@@ -165,12 +165,12 @@ table[class=body] .article {
                 <tr>
                   <td class="content-block" style="font-family: sans-serif; vertical-align: top; padding-bottom: 10px; padding-top: 10px; color: #9a9ea6; font-size: 12px; text-align: center;" valign="top" align="center">
                     <span class="apple-link" style="color: #9a9ea6; font-size: 12px; text-align: center;">Head Quarters - Unit 901, 9/F, Wanchai Central Building, 89 Lockhart Road, Wanchai, Hong Kong </span>
-                    <br> Don't like these emails? <a href="https://www.feedbacksync.com" style="text-decoration: underline; color: #9a9ea6; font-size: 12px; text-align: center;">Unsubscribe</a>.
+                    <br> Don't like these emails? <a href="https://www.nzminds.com" style="text-decoration: underline; color: #9a9ea6; font-size: 12px; text-align: center;">Unsubscribe</a>.
                   </td>
                 </tr>
                 <tr>
                   <td class="content-block powered-by" style="font-family: sans-serif; vertical-align: top; padding-bottom: 10px; padding-top: 10px; color: #9a9ea6; font-size: 12px; text-align: center;" valign="top" align="center">
-                    Powered by <a href="https://www.feedbacksync.com" style="color: #9a9ea6; font-size: 12px; text-align: center; text-decoration: none;">feedbacksync.com</a>.
+                    Powered by <a href="https://www.nzminds.com" style="color: #9a9ea6; font-size: 12px; text-align: center; text-decoration: none;">nzminds.com</a>.
                   </td>
                 </tr>
               </table>

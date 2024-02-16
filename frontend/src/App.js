@@ -176,7 +176,7 @@ const PDFGenerator = () => {
       // Create a temporary link element and set its attributes
       const link = document.createElement("a");
       link.href = url;
-      link.download = "your-filename.pdf"; // Set the desired filename for the downloaded PDF
+      link.download = "invoice.pdf"; // Set the desired filename for the downloaded PDF
 
       // Programmatically click the link to trigger the download
       link.click();
@@ -262,14 +262,9 @@ const PDFGenerator = () => {
 
       <br />
 
-      <p className="attribution footer_text">Created by Jackson Kasi 😎</p>
+      <p className="attribution footer_text">Welcome to PDF generate</p>
 
-      <p className="attribution">Thanks to html-pdf-node 💖</p>
-
-      <p>
-        Note: include <b>-webkit-print-color-adjust: exact;</b> in style tag for
-        get exact color from html to pdf
-      </p>
+      <p className="attribution">Convert your html to PDF</p>
 
       <pre>
         <code>
@@ -283,10 +278,6 @@ const PDFGenerator = () => {
       `}
         </code>
       </pre>
-
-      <a href="https://github.com/mrafiqk/html-pdf-node/issues/102">
-        issue: #102{" "}
-      </a>
 
       <br />
       <br />
